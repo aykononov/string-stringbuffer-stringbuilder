@@ -82,8 +82,12 @@ Cимвол по индексу [2]: l
 Разбиение по знаку (;) - I, And, Big, Java, Post, gres, 
  */
 ```
-[](https://github.com/aykononov/string-stringbuffer-stringbuilder "https://github.com/aykononov/string-stringbuffer-stringbuilder" )
+
 </details>
+
+
+[StringExample.java](https://github.com/aykononov/string-stringbuffer-stringbuilder/blob/main/src/main/java/StringExample.java "https://github.com/aykononov/string-stringbuffer-stringbuilder/blob/main/src/main/java/StringExample.java" )
+
 
 ## Класс StringBuffer
 * **mutable** класс, т.е. изменяемый.  
@@ -147,6 +151,8 @@ public class StringBufferExample {
 ```
 
 </details>
+
+[StringBufferExample.java](https://github.com/aykononov/string-stringbuffer-stringbuilder/blob/main/src/main/java/StringBufferExample.java "https://github.com/aykononov/string-stringbuffer-stringbuilder/blob/main/src/main/java/StringBufferExample.java" )
 
 ## Класс StringBuilder
 
